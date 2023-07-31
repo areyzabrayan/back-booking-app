@@ -1,0 +1,82 @@
+{
+  "users": [
+      {
+          "id": 1,
+          "name": "felipe",
+          "email": "c@gmail.com",
+          "password": "12345",
+          "image": "https://www.megaidea.net/wp-content/uploads/2020/10/among_us11-megaidea-300x300.png"
+      },
+      {
+          "id": 2,
+          "name": "Juan",
+          "email": "ca@gmail.com",
+          "password": "12345",
+          "image": "https://www.megaidea.net/wp-content/uploads/2020/10/among_us10-megaidea-300x300.png"
+      }
+  ],
+  "alojamientos": [
+      {
+          "id": 1,
+          "name": "apartamento en cartagena",
+          "idCategory": 1,
+          "rating": 5,
+          "pricepernight": 300000,
+          "image": "https://i.ibb.co/0nJcSzK/playa1.jpg"
+      },
+      {
+          "id": 2,
+          "name": "apartamento en el nevado del ruiz",
+          "idCategory": 2,
+          "rating": 4.5,
+          "pricepernight": 250000,
+         "image": "https://i.ibb.co/Nx1320j/montana1.jpg"
+      },
+      {
+          "id": 3,
+          "name": "Camping en salto del buey",
+          "idCategory": 3,
+          "rating": 3.9,
+          "pricepernight": 100000,
+          "image": "https://i.ibb.co/Mp6tcQC/camping1.jpg"
+      },
+      {
+          "id": 4,
+          "name": "Camping en lago azul",
+          "idCategory": 3,
+          "rating": 4.1,
+          "pricepernight": 200000,
+          "image": "https://i.ibb.co/HxF3mLZ/camping2.jpg"
+      },
+      {
+          "id": 5,
+          "name": "Habitacion en el Tairona",
+          "idCategory": 1,
+          "rating": 4.6,
+          "pricepernight": 350000,
+          "image": "https://i.ibb.co/ZNjVvW4/playa2.jpg"
+      },
+      {
+          "id": 6,
+          "name": "Habitacion en el Cocuy",
+          "idCategory": 2,
+          "rating": 5,
+          "pricepernight": 360000,
+          "image": "https://i.ibb.co/6sHd878/montana2.jpg"
+      }
+  ],
+  "categories": [
+      {
+          "id": 1,
+          "name": "playa"
+      },
+      {
+          "id": 2,
+          "name": "montana"
+      },
+      {
+          "id": 3,
+          "name": "camping"
+      }
+  ]
+}
